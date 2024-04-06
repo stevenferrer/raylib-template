@@ -1,0 +1,8 @@
+CompileFlags:
+  Add: [-xc, -std=c99, -Wall, -O0]
+  Compiler: clang
+
+InlayHints:
+  Enabled: Yes
+  BlockEnd: No
+  ParameterNames: No
